@@ -15,7 +15,8 @@ Como Executar o Projeto
 
 Instalar Dependências:
 1.npm install react-router-dom
-2.npm start
+2.git clone https://github.com/HermanoJr11/workshop-frontend-2024.2.-.git
+3. npm start
 
 Autor: José Hermano Pereira Henrique Júnior - Desenvolvedor - https://github.com/HermanoJr11
 
